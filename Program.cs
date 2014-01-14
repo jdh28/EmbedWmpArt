@@ -1,14 +1,14 @@
 ﻿/*
  * John Hall <john@jdh28.co.uk>
  * Copyright (c) John Hall. All rights reserved.
+ * 
+ * This program is licensed under the MIT licence, see LICENSE.md.
  */
 
 using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Security;
-using System.Text;
 using TagLib;
 
 namespace EmbedWmpArt
